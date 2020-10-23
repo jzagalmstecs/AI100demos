@@ -4,7 +4,6 @@
 
 After you complete this demo, you will be able to:
 - Create simple bot with Framework Composer
-- Publish your bot
 
 ## Instructions
 
@@ -26,3 +25,15 @@ After you complete this demo, you will be able to:
    ![](images/2.jpg)
 > **Note:** You can download directly by clicking this **[link](https://aka.ms/bf-composer-download-win)**
 
+#### Creating your first bot
+
+1. Open the **Bot Framework Emulator Composer**
+2. Click on **New** button
+    ![](images/3.jpg)
+3. Check the **Create from template** option, select **Echo Bot** and click on **Next**
+    ![](images/4.jpg)
+4. Set **ComposerDemo** as name then click on **OK**
+   ![](images/5.jpg)
+5. Click on **Start Bot** at the top right wait until the bot is ready then click on **Test in Emulator** your bot emulator will open
+6. Interact with the bot
+![](images/6.jpg)
