@@ -36,4 +36,4 @@ After you complete this demo, you will be able to:
    ![](images/5.jpg)
 5. Click on **Start Bot** at the top right wait until the bot is ready then click on **Test in Emulator** your bot emulator will open
 6. Interact with the bot
-![](images/6.jpg)
+   ![](images/6.jpg)
