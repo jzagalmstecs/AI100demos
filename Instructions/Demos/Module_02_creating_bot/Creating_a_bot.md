@@ -33,7 +33,9 @@ After you complete this demo, you will be able to:
 3. Check the **Create from template** option, select **Echo Bot** and click on **Next**
     ![](images/4.jpg)
 4. Set **ComposerDemo** as name then click on **OK**
-   ![](images/5.jpg)
+    ![](images/5.jpg)
 5. Click on **Start Bot** at the top right wait until the bot is ready then click on **Test in Emulator** your bot emulator will open
+
 6. Interact with the bot
-   ![](images/6.jpg)
+
+![](images/6.jpg)
