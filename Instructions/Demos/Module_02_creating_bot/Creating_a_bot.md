@@ -61,8 +61,11 @@ After you complete this demo, you will be able to:
 
 1. Click on **Create a resource** and search *Web app bot*
 
-   ![](images/10.jpg)
+---
 
+![](images/10.jpg)
+
+---
 2. Create a new web App bot with the following details:
    - Bot handle: **demobot[yourname]**
    - New Resource group: **starbucksdemoRG**
