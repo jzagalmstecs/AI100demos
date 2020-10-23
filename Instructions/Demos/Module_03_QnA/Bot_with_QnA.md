@@ -28,7 +28,11 @@ After you complete this demo, you will be able to:
    - Website location: **East US**
    - App insights: **Disable**
 
+---
+
 ![](images/2.jpg)
+
+---
 
 1. Wait for Azure to finish creating the QnA service
 2. Go to your **QnA service** and record the **Key 1** in a text file, you can find this value in the **Keys and Enpoint** Section
