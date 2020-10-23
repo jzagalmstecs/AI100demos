@@ -16,7 +16,8 @@ After you complete this demo, you will be able to:
 ##### Task 2: Create a QnA service
 
 1. Click on **Create a resource** search *QnA Maker* and click on create
-    ![](images/1.jpg)
+
+![](images/1.jpg)
 
 2. Create a new QnA Service with the following details:
    - Resource group: **starbucksdemoRG**
