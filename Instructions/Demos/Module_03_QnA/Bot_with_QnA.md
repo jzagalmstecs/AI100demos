@@ -31,8 +31,8 @@ After you complete this demo, you will be able to:
 
 ![](images/2.jpg)
 
-1. Wait for Azure to finish creating the QnA service
-2. Go to your **QnA service** and record the **Key 1** in a text file, you can find this value in the **Keys and Enpoint** Section
+3. Wait for Azure to finish creating the QnA service
+4. Go to your **QnA service** and record the **Key 1** in a text file, you can find this value in the **Keys and Enpoint** Section
     ![](images/3.jpg)
 
 #### Exercise 2: Create your bot and your Knowledge base
@@ -41,23 +41,23 @@ After you complete this demo, you will be able to:
 2. Click on **+ New** check **Create from knowledge base (QnA Maker)** then click on **Next** button
    ![](images/4.jpg)
 
-4. Set **starbucksFaQ** as name then click on **Next**
+3. Set **starbucksFaQ** as name then click on **Next**
     ![](images/5.jpg)
 
-5. In the URL field add the following:
+4. In the URL field add the following:
    ``https://www.starbucks.ca/customer-service/faqs/coffee``
-6. Click on **Create knowledge base** and wait while is extracting the QnA pairs.
+5. Click on **Create knowledge base** and wait while is extracting the QnA pairs.
     ![](images/6.jpg)
 
-7. Now you can see the questions and the answers you can add more questions and answers
+6. Now you can see the questions and the answers you can add more questions and answers
     ![](images/7.jpg)
 
-8. Now click on **Start Bot** and paste the **Key 1** previously recorded in the text file and click on **OK**
+7. Now click on **Start Bot** and paste the **Key 1** previously recorded in the text file and click on **OK**
     ![](images/8.jpg)
 
 > **Note:** the publishing can take a few minutes
 
-9. Test your bot in the Emulator by clicking in **Test in Emulator button** at the right top
+8. Test your bot in the Emulator by clicking in **Test in Emulator button** at the right top
     ![](images/9.jpg)
 
-10. Now you have a bot with a knowledge base. You can publish this bot using the same process that the previous demo
+9. Now you have a bot with a knowledge base. You can publish this bot using the same process that the previous demo
