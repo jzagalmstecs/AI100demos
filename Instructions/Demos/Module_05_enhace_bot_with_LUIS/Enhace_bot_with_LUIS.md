@@ -33,14 +33,15 @@ After you complete this demo, you will be able to:
 
     ![](images/3.jpg)
 
-#### Exercise 2: 
+#### Exercise 2: Add LUIS
 
 ##### Task 1: Create new dialog
 
 1. Open your **starbucksFaQ** bot
 2. Select **+ Add** and then select** Add new dialog** in the toolbar. A dialog will appear and ask for a Name and Description.
 3. Fill in the **Name** field with **menu** and the **Description** field with **show the menu**
-   ![](images/4.jpg)
+
+![](images/4.jpg)
 
 4. In the **BeginDialog** trigger, select the plus (+) icon in the **Authoring canvas** then select the **Send a response** action.
 5. Select the **Send a response** node and enter the following text into the **Property panel**
