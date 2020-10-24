@@ -74,7 +74,10 @@ After you complete this demo, you will be able to:
 
 5. Click on **Start bot**
 6. Composer needs to publish the LUIS model you created in the editor and needs your Key. Enter your LUIS key that you recorded in previous steps
-   ![](images/6.jpg)
+
+
+![](images/6.jpg)
+
 
 7. Test your bot, try phrases like:
     - "Show me the menu"
