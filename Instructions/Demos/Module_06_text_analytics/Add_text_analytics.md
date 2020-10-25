@@ -85,9 +85,9 @@ After you complete this demo, you will be able to:
     - Headers:
       - Key: **Ocp-Apim-Subscription-Key**
       - String or expression: **[Your_Cognitive_Services_Key]**
-      - Result property: **dialog.api_response**
-      - Content type: **application/json**
-      - Response type: **json**
+    - Result property: **dialog.api_response**
+    - Content type: **application/json**
+    - Response type: **json**
 
 > See the image belows
 
@@ -145,9 +145,9 @@ After you complete this demo, you will be able to:
     - Headers:
       - Key: **Ocp-Apim-Subscription-Key**
       - String or expression: **[Your_Cognitive_Services_Key]**
-      - Result property: **dialog.api_response**
-      - Content type: **application/json**
-      - Response type: **json**
+    - Result property: **dialog.api_response**
+    - Content type: **application/json**
+    - Response type: **json**
 
 > See the image belows
 
