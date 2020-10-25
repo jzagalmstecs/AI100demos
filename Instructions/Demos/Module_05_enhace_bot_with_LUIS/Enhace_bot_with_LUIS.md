@@ -38,7 +38,7 @@ After you complete this demo, you will be able to:
 ##### Task 1: Create new dialog
 
 1. Open your **starbucksFaQ** bot
-2. Select **+ Add** and then select** Add new dialog** in the toolbar. A dialog will appear and ask for a Name and Description.
+2. Select **+ Add** and then select **Add new dialog** in the toolbar. A dialog will appear and ask for a Name and Description.
 3. Fill in the **Name** field with **menu** and the **Description** field with **show the menu**
 
 
